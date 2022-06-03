@@ -38,3 +38,4 @@ Python (PT-BR):
 
   Web Scraping:
   https://www.youtube.com/watch?v=42sTntMEn6o&t=3s
+  
