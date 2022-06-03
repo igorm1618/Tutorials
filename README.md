@@ -3,7 +3,7 @@ Watched Videos for a better Introduction
 
 General Advices (PT-BR):
 
-https://www.youtube.com/watch?v=byxkMq0w9B4&list=WL&index=25&ab_channel=C%C3%B3digoFonteTV
+https://www.youtube.com/watch?v=byxkMq0w9B4&list=WL&index=25&ab_channel=C%C3%B3digoFonteTV	
 https://www.youtube.com/watch?v=sI3NlVK6lsA
 https://www.youtube.com/watch?v=JWVzyw6aynM&t=351s
 https://www.youtube.com/watch?v=C7Uvr61bmoU
